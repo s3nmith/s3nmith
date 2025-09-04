@@ -1,3 +1,4 @@
 ### Hi there 👋
 
-Interested in Infastructure and Security 
+Interested in Compilers and Data Science
+Prev. Projects: Homomorphic Enc, AWS Security, App Dev 
