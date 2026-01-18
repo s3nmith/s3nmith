@@ -147,13 +147,5 @@ If you're building something in:
 ---
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=s3nmith&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3nmith&layout=compact&hide_border=true" />
-</p>
-
-<!-- Optional: contribution snake animation (requires a workflow) -->
-<!--
-<p align="center">
   <img src="https://raw.githubusercontent.com/s3nmith/s3nmith/output/github-contribution-grid-snake.svg" />
 </p>
--->
