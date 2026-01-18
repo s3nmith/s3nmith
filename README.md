@@ -45,7 +45,7 @@ I'm an engineer who enjoys building things that are both **practical** and **kin
 
 ---
 
-## 🛠️ Tech stack (accurate + resume-aligned)
+## 🛠️ Tech stack 
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -85,8 +85,7 @@ I'm an engineer who enjoys building things that are both **practical** and **kin
 - CI/CD via GitHub Actions
 - City/ward-level waste rules → normalized schemas + ingestion pipeline
 
-🔗 Repo: https://github.com/s3nmith/recycling-app  
-(If you want, I can also format this as a “case study” section with screenshots + architecture.)
+🔗 Old Repo of Google Solution Challenge Submission: https://github.com/s3nmith/recycling-app  
 
 ---
 
@@ -95,8 +94,6 @@ Built a **custom RL environment** for hedging decisions:
 - PPO agent with feature extractors for forward curves + exposure
 - Backtesting + evaluation for stability & risk behaviour
 - Reward decomposition (hedge error, costs, roll, etc.)
-
-✅ Great fit for “applied ML + finance + engineering” roles.
 
 ---
 
@@ -121,14 +118,6 @@ Reviewed AWS analytics environment for security improvement opportunities:
 - SSH key management issues
 - Local download & data egress risks
 - Monitoring + activity log coverage gaps (CloudTrail/CloudWatch guardrails)
-
----
-
-## 🏆 Highlights
-
-- 🥇 **Google Solutions Challenge — Global Top 100 (2023)**
-- 🚢 Shipped production mobile app (iOS + Android)
-- 🧪 Research + engineering mix: compilers/HPC + data/ML + security
 
 ---
 
