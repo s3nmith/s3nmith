@@ -24,25 +24,24 @@
 
 ---
 
-## 🧠 About me
+## About me
 
-I'm an engineer who enjoys building things that are both **practical** and **deeply technical**.
+I'm an engineer who enjoys building things that are both **practical** and **kinda technical**.
 
 - 🎓 **BEng (Computer Science & Communications Engineering)** @ Waseda University  
 - 🧪 **Kasahara Lab** — Compilers & High-Performance Computing  
 - 🚀 Shipped a **Flutter app** to **App Store + Google Play** (GomiMap)
 - 📈 Built a **PPO reinforcement learning agent for FX hedging** (PyTorch + SB3)
-- 🔐 Experience with **security reviews** (AWS environment audits)
+- 🔐 Experience with **security reviews** (AWS environment)
 - 🌏 Languages: **English (native-level)** • **Japanese (JLPT N2)** • **Sinhala**
 
 ---
 
 ## 🔥 What I'm currently working on
 
-- 🧵 **Compiler / HPC performance experiments** (OSCAR + NAS Benchmarks)
+- 🧵 **Compiler / HPC performance experiments** (Auto-Parallelizing Compiler + NAS Benchmarks)
 - 📊 **RL + time-series for finance** (FX hedging environments + evaluation)
 - 🗺️ **GomiMap**: scaling waste-rule ingestion + data pipelines across cities
-- 🛡️ Practical cloud security improvements (logging, key management, guardrails)
 
 ---
 
