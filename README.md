@@ -140,13 +140,11 @@ If you're building something in:
 - sustainability + real-world apps
 - security engineering reviews
 
-…I'd love to chat.
+…lmkk!
 
 📩 **lahiruudawatta@gmail.com**
 
 ---
-
-## 📊 GitHub stats (optional but nice)
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=s3nmith&show_icons=true&hide_border=true" />
