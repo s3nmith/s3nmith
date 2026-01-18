@@ -6,7 +6,7 @@
 <h1 align="center">Hey, I'm Lahiru 👋</h1>
 
 <p align="center">
-  <b>Compilers • Data/ML • Security</b><br/>
+  <b>Compilers • Data/ML-ish(Calling an API)</b><br/>
   Kasahara Lab @ Waseda University | Building real products + research-y systems
 </p>
 
