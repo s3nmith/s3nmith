@@ -1,5 +1,162 @@
-### Hi there 👋
+<!-- ========================= -->
+<!--  GitHub Profile README    -->
+<!--  Lahiru Sanmith Udawatta  -->
+<!-- ========================= -->
 
-Interested in Compilers and Data Science 
+<h1 align="center">Hey, I'm Lahiru 👋</h1>
 
-Prev. Projects: Homomorphic Enc, AWS Security, App Dev 
+<p align="center">
+  <b>Compilers • Data/ML • Security</b><br/>
+  Kasahara Lab @ Waseda University | Building real products + research-y systems
+</p>
+
+<p align="center">
+  <a href="mailto:lahiruudawatta@gmail.com">📩 Email</a> •
+  <a href="https://www.linkedin.com/in/lahiru-u-5203951a5/">LinkedIn</a> •
+  <a href="https://github.com/s3nmith">GitHub</a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Compilers%20%26%20HPC-informational" />
+  <img src="https://img.shields.io/badge/Also-Data%2FML%20%26%20Security-informational" />
+  <img src="https://img.shields.io/badge/Google%20Solutions%20Challenge-Top%20100%20(2023)-success" />
+</p>
+
+---
+
+## 🧠 About me
+
+I'm an engineer who enjoys building things that are both **practical** and **deeply technical**.
+
+- 🎓 **BEng (Computer Science & Communications Engineering)** @ Waseda University  
+- 🧪 **Kasahara Lab** — Compilers & High-Performance Computing  
+- 🚀 Shipped a **Flutter app** to **App Store + Google Play** (GomiMap)
+- 📈 Built a **PPO reinforcement learning agent for FX hedging** (PyTorch + SB3)
+- 🔐 Experience with **security reviews** (AWS environment audits)
+- 🌏 Languages: **English (native-level)** • **Japanese (JLPT N2)** • **Sinhala**
+
+---
+
+## 🔥 What I'm currently working on
+
+- 🧵 **Compiler / HPC performance experiments** (OSCAR + NAS Benchmarks)
+- 📊 **RL + time-series for finance** (FX hedging environments + evaluation)
+- 🗺️ **GomiMap**: scaling waste-rule ingestion + data pipelines across cities
+- 🛡️ Practical cloud security improvements (logging, key management, guardrails)
+
+---
+
+## 🛠️ Tech stack (accurate + resume-aligned)
+
+### Languages
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Dart](https://img.shields.io/badge/Dart-000?style=for-the-badge&logo=dart)
+![SQL](https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql)
+![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c)
+
+### Frameworks / App & Web
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs)
+
+### Data / ML
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+![NumPy](https://img.shields.io/badge/NumPy-000?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-000?style=for-the-badge&logo=pandas)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-000?style=for-the-badge&logo=scikitlearn)
+
+### Cloud / DevOps
+![AWS](https://img.shields.io/badge/AWS-000?style=for-the-badge&logo=amazonaws)
+![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
+
+### Backend / DB tooling
+![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
+
+---
+
+## 📌 Featured work
+
+### 🗺️ GomiMap — Waste sorting guidance app (Flutter + Firebase + Maps)
+**Cross-platform app** shipped to **App Store + Google Play**, built with:
+- Flutter + Firebase (Realtime DB) + Google Maps API
+- CI/CD via GitHub Actions
+- City/ward-level waste rules → normalized schemas + ingestion pipeline
+
+🔗 Repo: https://github.com/s3nmith/recycling-app  
+(If you want, I can also format this as a “case study” section with screenshots + architecture.)
+
+---
+
+### 📈 FX Hedging RL Agent — PPO (PyTorch + Stable-Baselines3 + Gym)
+Built a **custom RL environment** for hedging decisions:
+- PPO agent with feature extractors for forward curves + exposure
+- Backtesting + evaluation for stability & risk behaviour
+- Reward decomposition (hedge error, costs, roll, etc.)
+
+✅ Great fit for “applied ML + finance + engineering” roles.
+
+---
+
+### 🔐 Privacy-Preserving ML Inference — CKKS / Homomorphic Encryption
+University research project benchmarking encrypted inference:
+- CKKS approaches (e.g., TenSEAL/OpenFHE style workflows)
+- Trade-offs across latency / accuracy / cost
+- Compared against secure infrastructure options (e.g., confidential computing ideas)
+
+---
+
+### ⚙️ HPC / Compilers — NAS Benchmarks on OSCAR (C/OpenMP)
+Reproducible benchmarking harness:
+- Makefile + Bash runner for NAS kernels (BT/CG/EP/FT/IS/LU/SP)
+- Collected runtime + energy (RAPL via `perf stat`)
+- CSV exports and scaling / Joules-per-op analysis
+
+---
+
+### ☁️ AWS Security Review (internship)
+Reviewed AWS analytics environment for security improvement opportunities:
+- SSH key management issues
+- Local download & data egress risks
+- Monitoring + activity log coverage gaps (CloudTrail/CloudWatch guardrails)
+
+---
+
+## 🏆 Highlights
+
+- 🥇 **Google Solutions Challenge — Global Top 100 (2023)**
+- 🚢 Shipped production mobile app (iOS + Android)
+- 🧪 Research + engineering mix: compilers/HPC + data/ML + security
+
+---
+
+## 📬 Contact
+
+If you're building something in:
+- compilers / HPC benchmarking
+- applied RL systems
+- sustainability + real-world apps
+- security engineering reviews
+
+…I'd love to chat.
+
+📩 **lahiruudawatta@gmail.com**
+
+---
+
+## 📊 GitHub stats (optional but nice)
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=s3nmith&show_icons=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s3nmith&layout=compact&hide_border=true" />
+</p>
+
+<!-- Optional: contribution snake animation (requires a workflow) -->
+<!--
+<p align="center">
+  <img src="https://raw.githubusercontent.com/s3nmith/s3nmith/output/github-contribution-grid-snake.svg" />
+</p>
+-->
