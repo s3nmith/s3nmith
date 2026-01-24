@@ -77,7 +77,7 @@ I'm a student who enjoys building things that are both **practical** and **kinda
 
 ---
 
-## 📌 Featured work
+## 📌 Main Works
 
 ### 🗺️ GomiMap — Waste sorting guidance app (Flutter + Firebase + Maps)
 **Cross-platform app** shipped to **App Store + Google Play**, built with:
@@ -86,6 +86,8 @@ I'm a student who enjoys building things that are both **practical** and **kinda
 - City/ward-level waste rules → normalized schemas + ingestion pipeline
 
 🔗 Old Repo of Google Solution Challenge Submission: https://github.com/s3nmith/recycling-app  
+Current App Repo is Private :( 
+Web: https://gomi-map.jp/
 
 ---
 
@@ -124,10 +126,9 @@ Reviewed AWS analytics environment for security improvement opportunities:
 ## 📬 Contact
 
 If you're building something in:
-- compilers / HPC benchmarking
-- applied RL systems
+- compilers + benchmarking
 - sustainability + real-world apps
-- security engineering reviews
+- security stuff
 
 …lmkk!
 
