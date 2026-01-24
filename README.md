@@ -26,13 +26,13 @@
 
 ## About me
 
-I'm an engineer who enjoys building things that are both **practical** and **kinda technical**.
+I'm a student who enjoys building things that are both **practical** and **kinda technical**.
 
 - 🎓 **BEng (Computer Science & Communications Engineering)** @ Waseda University  
--  **Kasahara Lab** — Compilers & High-Performance Computing  
+-  **Kasahara Lab** — Compilers & High-Performance Computing --> Working on DVFS for Greener Computing from the compiler level 
 - 🚀 Shipped a **Flutter app** to **App Store + Google Play** @ GomiMap 
 - 📈 Built a **PPO reinforcement learning agent for FX hedging** (PyTorch + SB3) @ TRADOM INC
-- 🔐 Experience with **security reviews** (AWS environment)  @ TRADOM INC
+- 🔐 Little bit of experience with **security reviews** (AWS environment)  @ TRADOM INC
 - 🌏 Languages: **English (native-level)** • **Japanese (JLPT N2)** • **Sinhala**
 
 ---
