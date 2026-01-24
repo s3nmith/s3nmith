@@ -132,10 +132,6 @@ If you're building something in:
 
 …lmkk!
 
-📩 **lahiruudawatta@gmail.com**
+📩 **lahiru.udawatta@gomi-map.jp**
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/s3nmith/s3nmith/output/github-contribution-grid-snake.svg" />
-</p>
