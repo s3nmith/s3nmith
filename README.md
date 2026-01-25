@@ -6,7 +6,7 @@
 <h1 align="center">Hey, I'm Lahiru 👋</h1>
 
 <p align="center">
-  <b>Compilers • Data/ML-ish(Calling an API)</b><br/>
+  <b>Compilers • Data/ML-ish(Calling an API lol)</b><br/>
   Kasahara Lab @ Waseda University | Building real products + research-y systems
 </p>
 
@@ -37,15 +37,15 @@ I'm a student who enjoys building things that are both **practical** and **kinda
 
 ---
 
-## 🔥 What I'm currently working on
+## Current Projectes
 
-- 🧵 **Compiler / HPC performance experiments** (Auto-Parallelizing Compiler + NAS Benchmarks)
-- 📊 **RL + time-series for finance** (FX hedging environments + evaluation)
-- 🗺️ **GomiMap**: scaling waste-rule ingestion + data pipelines across cities
+- 🧵 **Compiler / HPC performance experiments** (Auto-Parallelizing Compiler + NAS Benchmarks + DVFS for Energy Red)
+- 📊 **RL + time-series for finance** (FX (USD/JPY) hedging environments + evaluation)
+- 🗺️ **GomiMap**: scaling waste-rule ingestion + data pipelines across cities + app dev
 
 ---
 
-## 🛠️ Tech stack 
+## 🛠️ Tech stack (I'm always switching so need to refresh every 3-4 months)
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
@@ -79,14 +79,15 @@ I'm a student who enjoys building things that are both **practical** and **kinda
 
 ## 📌 Main Works
 
-### 🗺️ GomiMap — Waste sorting guidance app (Flutter + Firebase + Maps)
+### 🗺️ GomiMap — Waste sorting guidance app (Flutter + Firebase + MapsAPI + Google Cloud)
 **Cross-platform app** shipped to **App Store + Google Play**, built with:
-- Flutter + Firebase (Realtime DB) + Google Maps API
+- Flutter + Firebase (Firestore DB) + Google Maps API
+- Google Cloud for Data Cleaning/Processing workflows
 - CI/CD via GitHub Actions
-- City/ward-level waste rules → normalized schemas + ingestion pipeline
+- City/ward-level waste rules → normalized schemas + ingestion pipeline + normalized dbs for schedule based on user area
 
 🔗 Old Repo of Google Solution Challenge Submission: https://github.com/s3nmith/recycling-app  
-Current App Repo is Private :( 
+Current App Repo is Private :(       
 Web: https://gomi-map.jp/
 
 ---
