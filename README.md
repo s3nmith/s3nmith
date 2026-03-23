@@ -40,7 +40,7 @@ I'm a student who enjoys building things that are both **practical** and **kinda
 
 ## Current Projectes
 
-- 🧵 **Compiler / HPC performance experiments** (Auto-Parallelizing Compiler + NAS Benchmarks + DVFS for Energy Red)
+- 🧵 **Compiler / HPC performance experiments** (Auto-Parallelizing Compiler + NAS Benchmarks + Clock-Gating for Energy Red)
 - 📊 **Market Making Research for Stablecoins** (StableFX Sandbox + Info-Gathering)
 - 🗺️ **GomiMap**: scaling waste-rule ingestion + data pipelines across cities + app dev
 
