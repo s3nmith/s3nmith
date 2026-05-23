@@ -73,9 +73,6 @@ I'm a student who enjoys building things that are both **practical** and **kinda
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-000?style=for-the-badge&logo=githubactions)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
 
-### Backend / DB tooling
-![Prisma](https://img.shields.io/badge/Prisma-000?style=for-the-badge&logo=prisma)
-
 ---
 
 ## 📌 Main Works
